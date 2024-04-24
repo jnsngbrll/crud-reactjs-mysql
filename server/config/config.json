@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "yourUsername",
+    "password": "yourPassword",
+    "database": "crud-reactjs-mysql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "yourUsername",
+    "password": "yourPassword",
+    "database": "crud-reactjs-mysql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "yourUsername",
+    "password": "yourPassword",
+    "database": "crud-reactjs-mysql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
